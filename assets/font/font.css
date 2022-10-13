@@ -1,0 +1,73 @@
+/*-----------------------------------*\
+  #style.css
+\*-----------------------------------*/
+
+/**
+ * copyright 2022 codewithsadee
+ */
+
+
+
+/**
+ * RECOLETA FONT
+ */
+
+@font-face {
+  font-family: 'Recoleta';
+  src: local('Recoleta Light'), local('Recoleta-Light'),
+      url('./recoleta/Recoleta-Light.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Recoleta';
+  src: local('Recoleta Regular'), local('Recoleta-Regular'),
+      url('./recoleta/Recoleta-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+
+
+/**
+ * GORDITA FONT
+ */
+
+@font-face {
+  font-family: 'Gordita';
+  src: local('Gordita Light'), local('Gordita-Light'),
+      url('./gordita/Gordita-Light.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Gordita';
+  src: local('Gordita Regular'), local('Gordita-Regular'),
+      url('./gordita/Gordita-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Gordita';
+  src: local('Gordita Italic'), local('Gordita-Italic'),
+      url('./gordita/Gordita-Italic.woff2') format('woff2');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Gordita';
+  src: local('Gordita Medium'), local('Gordita-Medium'),
+      url('./gordita/Gordita-Medium.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}

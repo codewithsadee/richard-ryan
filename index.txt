@@ -1,0 +1,196 @@
+Richard Ryan
+
+This is a photographer portfolio html template, made by codewithsadee.
+
+
+
+#---------- HEADER ----------#
+
+alt = Richard home
+
+aria-label = open menu
+alt = menu icon
+
+alt = Richard home
+
+aria-label = close menu
+
+Home
+Gallery
+About
+Services
+Portfolio
+Contact us
+
+alt = user icon
+Login
+
+My Address
+
+3287 Indiana Avenue, Waialua, Hawaii
+
+Urgent issue? call us at
+808-561-3846
+
+
+
+#---------- HERO ----------#
+
+Richard Ryan
+
+Photographer
+Shutterbug
+Cameraman
+Pacific Portraits
+
+15+ Years Of Experience
+
+
+
+#---------- GALLERY ----------#
+
+The Drunken
+Food, Event
+alt = arrow-forward icon
+
+Lettuce Entertain
+Landscape
+
+Leaping Lizard
+Model, Fashion
+
+Juan More Taco
+Architecture, Event
+
+Goldilox Bagels
+People, Film
+
+Cookie Monstah
+Wedding, Event
+
+Divine Pastabilities
+Wedding, Model
+
+The Lockhart Bar
+Health & Wellnes
+
+alt = mouse scroll
+
+
+
+#---------- CATEGORY ----------#
+ 
+Landscape,
+Model,
+Street,
+Product,
+Fashion,
+Film,
+Architecture,
+Event,
+Wedding,
+People,
+Event,
+Food,
+Health & Wellnes.
+
+
+
+#---------- CATEGORY ----------#
+
+Hi. I’m
+Richard Ryan
+
+A passionate
+photograher
+who are working in this field for 
+last 10 years. 
+I’m ready to give you my best.
+
+alt = signature
+
+alt = Riachard Ryan
+
+
+
+#---------- SERVICE ----------#
+
+My Services
+
+Wedding Photography
+Aut temporibus qui vero.
+
+aria-label = See more
+
+<svg xmlns="http://www.w3.org/2000/svg" width="43" height="20" viewBox="0 0 43 20" fill="none"><path d="M0 10H41" stroke="white" stroke-width="2" /><path d="M33 1L41.9 10.2727L33 19" stroke="white" stroke-width="2" /></svg>
+
+Event Organiser
+Nobis, magni modi ipsa culpa.
+
+Product Marketing
+Tenetur porro repellendus!
+
+Videography
+Amet consectetur adipisicing elit
+
+
+
+#---------- PORTFOLIO ----------#
+
+My Recent Work.
+
+Shoe Promo
+Product
+
+aria-label = See more
+
+<svg xmlns="http://www.w3.org/2000/svg" width="43" height="20" viewBox="0 0 43 20" fill="none"><path d="M0 10H41" stroke="black" stroke-width="2" /><path d="M33 1L41.9 10.2727L33 19" stroke="black" stroke-width="2" /></svg>
+
+Wedding Shot
+Wedding
+
+Fashion Show
+Fashion, Model
+
+Jumbo Barger
+Food
+
+
+
+#---------- CONTACT ----------#
+
+Contact Us
+
+Work inquiry, Job oportunities? Send Message.
+
+alt = arrow-forward icon
+
+alt = photography
+
+
+
+#---------- FOOTER ----------#
+
+alt = Richard home
+
+Fa.
+Insta.
+Tw.
+
+Made with love
+
+alt = photography
+
+
+
+#---------- BACK TO TOP ----------#
+
+aria-label = back to top
+
+
+
+#---------- LOADING ----------#
+
+alt = loading
+
+alt = loading shape
