@@ -3,7 +3,7 @@
   ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/richard-ryan)
   ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/richard-ryan?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/richard-ryan?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
   [![YouTube Video Views](https://img.shields.io/youtube/views/jOA6ROBXdRE?style=social)](https://youtu.be/jOA6ROBXdRE)
 
   <br />
